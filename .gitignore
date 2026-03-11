@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Project related files Exclude
+__pycache__/
+.ipynb_checkpoints/
+outputs/
+*.pth
+*.log
